@@ -23,4 +23,4 @@ https://github.com/SHA2017-badge/PCB/blob/master/sha2017_rev0_1_0_dev_schematic.
 Picture
 =======
 
-![SHA2017 blink led](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/ch340g-pinout.jpg)
+![SHA2017 blink led](https://raw.githubusercontent.com/zoobab/sha2017badge-arduino-blinkled/master/sha2017badge-arduino-blink.jpg)
