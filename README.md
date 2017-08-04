@@ -6,6 +6,8 @@ Blink a LED for the SHA2017 badge.
 Arduino IDE supports ESP32 modules. Just pick the default "ESP32 Dev module"
 for now. Adding proper support for the badge would be great as well.
 
+![esp32 arduino ide](https://raw.githubusercontent.com/zoobab/sha2017badge-arduino-blinkled/master/sha2017badge-arduinoide-screenshot.jpg)
+
 Code
 ====
 
