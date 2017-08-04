@@ -20,5 +20,7 @@ LED is connected to the X2 2x6 connector "Port Expander", to top right PIN1
 The pinout of the connector "Port Expander" is here:
 https://github.com/SHA2017-badge/PCB/blob/master/sha2017_rev0_1_0_dev_schematic.pdf
 
-Pictures
-========
+Picture
+=======
+
+![SHA2017 blink led](https://raw.githubusercontent.com/zoobab/ch340g-bitbanging/master/ch340g-pinout.jpg)
